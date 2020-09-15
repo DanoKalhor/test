@@ -1,0 +1,15 @@
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\bin\Debug\netcoreapp3.1\UserApp.DataLayer.deps.json
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\bin\Debug\netcoreapp3.1\UserApp.DataLayer.dll
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\obj\Debug\netcoreapp3.1\UserApp.DataLayer.csprojAssemblyReference.cache
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\obj\Debug\netcoreapp3.1\UserApp.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\obj\Debug\netcoreapp3.1\UserApp.DataLayer.AssemblyInfo.cs
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\bin\Debug\netcoreapp3.1\UserApp.DataLayer.pdb
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\obj\Debug\netcoreapp3.1\UserApp.DataLayer.dll
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\obj\Debug\netcoreapp3.1\UserApp.DataLayer.pdb
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\bin\Debug\netcoreapp3.1\UserApp.DataLayer.runtimeconfig.json
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\bin\Debug\netcoreapp3.1\UserApp.DataLayer.runtimeconfig.dev.json
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\obj\Debug\netcoreapp3.1\UserApp.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\obj\Debug\netcoreapp3.1\UserApp.DataLayer.genruntimeconfig.cache
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\bin\Debug\netcoreapp3.1\UserApp.Models.dll
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\bin\Debug\netcoreapp3.1\UserApp.Models.pdb
+C:\Users\Dano\Desktop\UserApp\UserApp.DataLayer\obj\Debug\netcoreapp3.1\UserApp.DataLayer.csproj.CopyComplete

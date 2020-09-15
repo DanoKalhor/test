@@ -1,0 +1,9 @@
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\bin\Debug\netcoreapp3.1\UserApp.Models.deps.json
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\bin\Debug\netcoreapp3.1\UserApp.Models.dll
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\bin\Debug\netcoreapp3.1\UserApp.Models.pdb
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.AssemblyInfoInputs.cache
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.AssemblyInfo.cs
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.dll
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.pdb
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dano\Desktop\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.csprojAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+</head>
+<body>
+@if (User.Identity.IsAuthenticated)
+{
+    <h3>Hi @User.Identity.Name</h3>
+}
+<div>
+    @RenderBody()
+</div>
+
+<script src="/lib/twitter-bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
